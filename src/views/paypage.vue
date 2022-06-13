@@ -1,7 +1,7 @@
 <template>
 
   <div class="paypage" style="height:100%;margin-top:0px;">
-<!--    <nut-navbar class="paytitle" :left-show="false" title="在线缴费" icon="more"></nut-navbar>-->
+<!--    <nut-navbar class="paytitle" :left-show="false" title="nutui新版本签名测试" icon="more"></nut-navbar>-->
     <div style="overflow: auto;height:100%;padding-bottom: 30px;">
       <nut-form>
         <nut-signature
